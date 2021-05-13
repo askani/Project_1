@@ -1,2 +1,3 @@
-# Project_1
-This is my new Project
+# Omdena-Project_1
+
+WEO water management project
